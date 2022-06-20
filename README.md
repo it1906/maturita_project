@@ -1,1 +1,1 @@
-# maturita_project
+# Maturitní projekt - Webová aplikace Strapi, React
